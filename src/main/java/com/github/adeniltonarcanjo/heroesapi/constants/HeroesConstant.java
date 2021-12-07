@@ -1,4 +1,4 @@
-package com.github.adeniltonarcanjo.heroesapi.constans;
+package com.github.adeniltonarcanjo.heroesapi.constants;
 
 public class HeroesConstant {
 

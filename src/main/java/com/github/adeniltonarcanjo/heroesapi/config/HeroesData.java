@@ -7,8 +7,8 @@ import com.amazonaws.services.dynamodbv2.document.DynamoDB;
 import com.amazonaws.services.dynamodbv2.document.Item;
 import com.amazonaws.services.dynamodbv2.document.PutItemOutcome;
 import com.amazonaws.services.dynamodbv2.document.Table;
-import  static com.github.adeniltonarcanjo.heroesapi.constans.HeroesConstant.ENDPOINT_DYNAMO;
-import  static com.github.adeniltonarcanjo.heroesapi.constans.HeroesConstant.REGION_DYNAMO;
+import  static com.github.adeniltonarcanjo.heroesapi.constants.HeroesConstant.ENDPOINT_DYNAMO;
+import  static com.github.adeniltonarcanjo.heroesapi.constants.HeroesConstant.REGION_DYNAMO;
 
 
 
